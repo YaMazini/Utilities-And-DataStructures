@@ -7,9 +7,9 @@
 [![Purpose](https://img.shields.io/badge/purpose-Educational%20%26%20Production-green.svg)]()
 [![Architecture](https://img.shields.io/badge/design-OOP%20%26%20Templates-orange.svg)]()
 
-## 🎯 Project Vision
+## 🏗️ Multi-Library Architecture
 
-Built from scratch to master **OOP concepts**, improve **programming logic**, and create **production-ready libraries** that extend C++'s capabilities. These libraries serve both **educational purposes** and **real-world applications**, demonstrating enterprise-grade software engineering principles.
+Built from scratch to master **OOP concepts**, improve **programming logic**, and create **production-ready libraries** that extend C++'s capabilities. This phase represents a crucial part of **foundation building** in software development. These libraries serve both **educational purposes** and **real-world applications**, demonstrating enterprise-grade software engineering principles with emphasis on **reusability concepts**, **logic improvement**, **pointer manipulation and memory management** including dynamic memory allocation, and **hands-on practice with data structures** to understand how to build your own custom implementations from the ground up.
 
 ## 📁 File Organization
 
@@ -351,6 +351,12 @@ This is primarily an **educational project** for learning C++ and data structure
 - 💼 **Application**: Using these libraries in real projects (Bank System)
 
 GitHub: [@YaMazini](https://github.com/YaMazini)
+
+---
+
+## 🙏 Acknowledgments
+
+**Problems curated and adapted from [ProgrammingAdvices](https://programmingadvices.com/)** - an excellent resource for systematic programming education.
 
 ---
 
